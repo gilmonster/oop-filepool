@@ -1,7 +1,6 @@
 #include <iostream>
 #include "SafeArr.h"
 
-// test test test 
 
 using namespace std;
 
